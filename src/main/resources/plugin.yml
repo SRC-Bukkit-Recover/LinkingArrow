@@ -1,0 +1,6 @@
+name: LinkingArrows
+version: ${project.version}
+main: me.hsgamer.linkingarrows.LinkingArrows
+api-version: 1.13
+authors: [HSGamer]
+description: Create a line that connects 2 arrows
